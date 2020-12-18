@@ -13,6 +13,8 @@ var particle=null
 
 var gameState="play"
 
+var ground
+
 var turn=0
 
 var divisionHeight=300;
